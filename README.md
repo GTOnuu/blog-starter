@@ -1,2 +1,2 @@
-# blog-starter-app
+# blog-starter
 はじめてのブログを作ってみよう
